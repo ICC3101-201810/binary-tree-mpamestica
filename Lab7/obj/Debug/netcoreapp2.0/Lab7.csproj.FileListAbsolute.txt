@@ -1,0 +1,11 @@
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/obj/Debug/netcoreapp2.0/Lab7.csprojResolveAssemblyReference.cache
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/obj/Debug/netcoreapp2.0/Lab7.csproj.CoreCompileInputs.cache
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/obj/Debug/netcoreapp2.0/Lab7.AssemblyInfoInputs.cache
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/obj/Debug/netcoreapp2.0/Lab7.AssemblyInfo.cs
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/bin/Debug/netcoreapp2.0/Lab7.deps.json
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/bin/Debug/netcoreapp2.0/Lab7.runtimeconfig.json
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/bin/Debug/netcoreapp2.0/Lab7.runtimeconfig.dev.json
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/bin/Debug/netcoreapp2.0/Lab7.dll
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/bin/Debug/netcoreapp2.0/Lab7.pdb
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/obj/Debug/netcoreapp2.0/Lab7.dll
+/Users/maca.amestica/Desktop/arbol_binario_mpamestica/Lab7/obj/Debug/netcoreapp2.0/Lab7.pdb
